@@ -1,0 +1,23 @@
+{
+  "src": "sheet.webp",
+  "clip": "clip2.mp4",
+  "frames": 3,
+  "frameWidth": 560,
+  "frameHeight": 466,
+  "cols": 3,
+  "rows": 1,
+  "idle": 0,
+  "blink": [
+    1,
+    2
+  ],
+  "sourceFrames": [
+    "228",
+    "233",
+    "235"
+  ],
+  "deltas": [
+    5.9,
+    10.2
+  ]
+}
